@@ -1,0 +1,38 @@
+/* ==========================================================================
+   BeatBotAdmin - Dark Theme Stylesheet (Default)
+   Pink (#FF2D8D) + Blue (#1E88FF) Gradient & Deep Space Dark Mode
+   ========================================================================== */
+
+:root, [data-theme="dark"] {
+  --bg-dark: #090A0F;
+  --bg-surface: #10121D;
+  --bg-surface-elevated: #161928;
+  --bg-card: rgba(18, 21, 35, 0.78);
+  --bg-card-hover: rgba(26, 30, 50, 0.9);
+  --bg-glass: rgba(14, 16, 27, 0.75);
+  --bg-input: rgba(10, 12, 20, 0.85);
+  --bg-table-header: rgba(12, 14, 23, 0.95);
+  --bg-dropdown: #141726;
+
+  --border-light: rgba(255, 255, 255, 0.08);
+  --border-medium: rgba(255, 255, 255, 0.14);
+  --border-hover: rgba(255, 45, 141, 0.45);
+
+  --text-main: #FFFFFF;
+  --text-muted: #9DA1B4;
+  --text-subtle: #676C82;
+
+  --card-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.6);
+  --card-shadow-hover: 0 18px 40px -5px rgba(0, 0, 0, 0.75);
+  --glass-blur: blur(16px);
+
+  --btn-glass-bg: rgba(255, 255, 255, 0.06);
+  --btn-glass-hover: rgba(255, 45, 141, 0.16);
+  --toggle-bg: rgba(255, 255, 255, 0.15);
+  --tag-bg: rgba(255, 255, 255, 0.05);
+
+  --skeleton-base: rgba(255, 255, 255, 0.05);
+  --skeleton-highlight: rgba(255, 255, 255, 0.12);
+}
+
+

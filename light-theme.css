@@ -1,0 +1,38 @@
+/* ==========================================================================
+   BeatBotAdmin - Light Theme Stylesheet
+   Clean Professional White & Slate Slate Design System
+   ========================================================================== */
+
+[data-theme="light"] {
+  --bg-dark: #F1F4F9;
+  --bg-surface: #FFFFFF;
+  --bg-surface-elevated: #F8FAFC;
+  --bg-card: rgba(255, 255, 255, 0.94);
+  --bg-card-hover: rgba(248, 250, 252, 1);
+  --bg-glass: rgba(255, 255, 255, 0.92);
+  --bg-input: #F8FAFC;
+  --bg-table-header: #F1F5F9;
+  --bg-dropdown: #FFFFFF;
+
+  --border-light: rgba(15, 23, 42, 0.1);
+  --border-medium: rgba(15, 23, 42, 0.16);
+  --border-hover: rgba(255, 45, 141, 0.6);
+
+  --text-main: #0F172A;
+  --text-muted: #475569;
+  --text-subtle: #64748B;
+
+  --card-shadow: 0 6px 20px -3px rgba(15, 23, 42, 0.08);
+  --card-shadow-hover: 0 12px 30px -4px rgba(15, 23, 42, 0.14);
+  --glass-blur: blur(16px);
+
+  --btn-glass-bg: rgba(15, 23, 42, 0.05);
+  --btn-glass-hover: rgba(255, 45, 141, 0.12);
+  --toggle-bg: rgba(15, 23, 42, 0.15);
+  --tag-bg: rgba(15, 23, 42, 0.04);
+
+  --skeleton-base: rgba(15, 23, 42, 0.06);
+  --skeleton-highlight: rgba(15, 23, 42, 0.14);
+}
+
+
