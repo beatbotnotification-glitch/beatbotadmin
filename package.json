@@ -1,0 +1,17 @@
+{
+  "name": "beatbot-admin-server",
+  "version": "1.0.0",
+  "description": "Backend API server for BeatBot Admin (Firebase Auth User Listing, FCM Messaging & Cloudinary Secure Deletion)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cloudinary": "^2.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "firebase-admin": "^12.3.0"
+  }
+}
